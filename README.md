@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @irjifariiid
-- 👀 I’m interested in hololive
-- 🌱 I’m currently learning C Language
-- 💞️ I’m looking to collaborate on Suisei
 - 📫 How to reach me irjifariid@gmail.com
 
 <!---
