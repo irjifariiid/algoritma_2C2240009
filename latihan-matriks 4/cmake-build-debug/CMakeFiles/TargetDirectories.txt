@@ -1,0 +1,3 @@
+C:/Users/Lenovo/CLionProjects/latihan-matriks 4/cmake-build-debug/CMakeFiles/latihan_matriks_4.dir
+C:/Users/Lenovo/CLionProjects/latihan-matriks 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/CLionProjects/latihan-matriks 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
