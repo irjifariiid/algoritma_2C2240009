@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int f(int x) {
+    return x * x - 2 * x + 5;
+}
+
+int main() {
+    int fa, fb;
+    
+    cout << "Masukkan A:  ";
+    cin >> fa;
+    cout << "Masukkan B:  ";
+    cin >> fb;
+
+    for (int i = fa; i <= fb; i++) {
+        cout << "f(" << i << ") = " << f(i) << endl;
+    }
+    return 0;
+}
