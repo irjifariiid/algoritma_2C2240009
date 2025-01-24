@@ -26,14 +26,14 @@ public:
     void loadData() {
         ifstream file(filename);
         file >> cardNumber >> pin >> saldo;
-        file.close(); // Fungsi untuk validasi data
+        file.close(); // Fungsi untuk membaca data file txt nya
     }
 
     void saveData() {
         ofstream file(filename);
         if (file.is_open()) {
             file << cardNumber << " " << pin << " " << saldo;
-            file.close(); // Fungsi pengambilan data untuk di tampilkan
+            file.close(); // Fungsi menyimpan data terbaru
         }
     }
     // Cek pin sesuai dengan data 
